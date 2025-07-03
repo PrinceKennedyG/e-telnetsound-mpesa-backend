@@ -1,0 +1,14 @@
+{
+  "name": "e-telnetsound-mpesa-backend",
+  "version": "1.0.0",
+  "description": "Mpesa Daraja STK Push API for e.telnetsound",
+  "main": "daraja_backend_api.js",
+  "scripts": {
+    "start": "node daraja_backend_api.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
